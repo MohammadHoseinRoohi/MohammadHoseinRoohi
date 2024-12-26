@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">I am a computer engineering student</h3>
-<img aling="right" alt="Mohammad" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
+<img aling="right" alt="Mohammad" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhoseinroohi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhoseinroohi" /> </p>
 
