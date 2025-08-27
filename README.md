@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hosein</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 
+<img align = "right" alt = "Mohammad" width = "450" src = "https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhoseinroohi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhoseinroohi" /> </p>
 
 - 🌱 I’m currently learning **MySQL**
