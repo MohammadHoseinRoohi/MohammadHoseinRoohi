@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadhoseinroohi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadhoseinroohi" /> </p>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **JWT**
 
 - 💬 Ask me about **C#**
 
