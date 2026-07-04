@@ -4,7 +4,7 @@
 <h3 align="center">A passionate backend and web application developer</h3>
 
 
-<img align="right" alt="MHROOHIDEV" width="400" src="https://camo.githubusercontent.com/6b9a0eb507ba0d6023b497d68c2da7634d47c0a1bbf29e33410fb433d8ad59a8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f636f64656c6f6f702e676966">
+<img align="right" alt="MHROOHIDEV" width="390" src="https://camo.githubusercontent.com/6b9a0eb507ba0d6023b497d68c2da7634d47c0a1bbf29e33410fb433d8ad59a8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f636f64656c6f6f702e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhroohidev&label=Profile%20views&color=0e75b6&style=flat" alt="mhroohidev" /> </p>
 
